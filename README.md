@@ -6,3 +6,4 @@ Projenin amacı HTML ve CSS derlerinde öğrenilen bilgileri tekrar ederek peki�
 Projenin ilave katkısı Github kullanımını pratikleştirmek.
 
 Proje seviyesi orta.
+Proje çıktısı: file:///C:/Users/user/Desktop/css-odevi3/index.html
